@@ -1,0 +1,8 @@
+{
+  "name": "m4rkovka-game",
+  "version": "1.0.0",
+  "description": "Simple HTML game",
+  "scripts": {
+    "dev": "python -m http.server 3000"
+  }
+}
